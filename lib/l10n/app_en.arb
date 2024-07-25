@@ -1,0 +1,30 @@
+{
+    "debug": "This is a temporary placeholder while developing",
+      "@debug": {
+        "description": "Used for development"
+      },
+    "login": "Login",
+    "email": "Email",
+    "password": "Password",
+    "dontHaveAnAccount": "Don't have an account?",
+    "signUp": "Sign up",
+    "forgotPassword": "Forgot Password",
+    "bySigningInYouAgreeToOur": "By signing in you agree to our",
+    "termsAndConditions": "Terms and Conditions",
+    "registerMessage": "Your dreams are personal.\nLet's keep them private, too.",
+    "existingUser": "Existing user?",
+    "logIn": "Log in",
+    "name": "Name",
+    "continueText": "Continue",
+    "createAnAccount": "Create an account",
+    "forgotPasswordMessage": "Enter the email associated with your account and we'll send an email with instructions to reset your password.",
+    "journeys": "Journeys",
+    "dreamDecoder": "Dream Decoder",
+    "profile": "Profile",
+    "dreamJourneys": "Dream Journeys",
+    "dreams": "Dreams",
+    "home": "Home",
+    "settings": "Settings",
+    "recordOrTypeDream": "Record or type a description of your dream",
+    "addFirstDream": "Add your first dream"
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "830115553947",
+    "project_id": "wakefully-dev",
+    "storage_bucket": "wakefully-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830115553947:android:9889439e7e230a7b781c3e",
+        "android_client_info": {
+          "package_name": "io.wakefully.analyzer.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830115553947-fudkarbt1kspohmutclrudn9aq4pflbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA67npkvKa6yL8-VH7DcOBAvBV8i-PMoxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830115553947-fudkarbt1kspohmutclrudn9aq4pflbv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

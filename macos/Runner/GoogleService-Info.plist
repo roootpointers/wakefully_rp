@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1020004479001-rgagljcn2lfqo8if41mosoanb41sdjii.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1020004479001-rgagljcn2lfqo8if41mosoanb41sdjii</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBoBUD0l9rz5mLd7CeImIcohVX1EHtGFA0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1020004479001</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>io.wakefully.analyzer.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>wakefully-kt</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wakefully-kt.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1020004479001:ios:b7b7b1c4b19c97431fba88</string>
+</dict>
+</plist>

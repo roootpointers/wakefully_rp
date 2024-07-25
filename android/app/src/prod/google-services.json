@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "853699320238",
+    "project_id": "wakefully-7b9aa",
+    "storage_bucket": "wakefully-7b9aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853699320238:android:b97f19d2de9afb6b2dd03f",
+        "android_client_info": {
+          "package_name": "io.wakefully"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853699320238-tkt0eoukf0q7t7b2cjqd5mme5851uq1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW0gCf4QZmtLpYgkfMHLpA_bW5Yfxezys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853699320238-tkt0eoukf0q7t7b2cjqd5mme5851uq1s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "853699320238-9auom7cgi7dua8gfpkh3v694nfopt9lc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.wakefully.analyzer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853699320238:android:fb976454e37611a52dd03f",
+        "android_client_info": {
+          "package_name": "io.wakefully.analyzer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853699320238-tkt0eoukf0q7t7b2cjqd5mme5851uq1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW0gCf4QZmtLpYgkfMHLpA_bW5Yfxezys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853699320238-tkt0eoukf0q7t7b2cjqd5mme5851uq1s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "853699320238-9auom7cgi7dua8gfpkh3v694nfopt9lc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.wakefully.analyzer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
